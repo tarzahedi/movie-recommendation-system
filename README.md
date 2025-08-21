@@ -1,11 +1,11 @@
 # 🎬 Movie Recommendation System  
 
-👉 **[Live Demo App](https://tar-movie-recommendation-system.streamlit.app/)**  
-
 A personalized **movie recommender system** built using the [MovieLens dataset](https://www.kaggle.com/datasets/shubhammehta21/movie-lens-small-latest-dataset).  
 The system recommends movies based on **item-item collaborative filtering** with an optional **genre influence filter**.  
 
+## 🍿 Live Demo
 Deployed as an interactive **Streamlit app** where users can select a movie and instantly see recommendations.  
+Try the app 👉[here](https://tar-movie-recommendation-system.streamlit.app/)👈
 
 
 ## ✨ Features
